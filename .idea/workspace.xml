@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99fadfaf-d2ef-4666-822d-851a0ceb4854" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/creational/Singleton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/creational/SingletonMultiThread.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +37,7 @@
     "Python.Sigleton.executor": "Run",
     "Python.SingletonMultiThread.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="RecentsManager">
